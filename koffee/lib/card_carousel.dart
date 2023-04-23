@@ -20,7 +20,7 @@ class CardCarouselState extends State<CardCarousel> {
 
     double fontSizeLrg = screenWidth * headingFontSize;
     double cardWidth = screenWidth * cardW;
-    double cardHeight = cardWidth * 1.65;
+    double cardHeight = cardWidth * 1.70;
 
     return Padding
     (
